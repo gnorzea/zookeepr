@@ -119,6 +119,15 @@
         "loving"
       ],
       "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemurrr",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
